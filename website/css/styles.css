@@ -625,6 +625,72 @@ progress {
     url(https://media.sketchfab.com/models/c9937e06e98c463c9a645b299b24cd2f/thumbnails/3427570ea6ba4cc8be1333fd9c510381/80e39cbc5c8b475ebd393d64f67800fe.jpeg);
 }
 
+.tinted-image3 {
+  background-image: 
+    /* top, transparent red */
+    linear-gradient(
+      rgba(141, 93, 5, 0.45), 
+      rgba(0, 0, 0, 0.45)
+    ),
+    /* your image */
+    url(https://u4d2z7k9.rocketcdn.me/wp-content/uploads/2022/04/Untitled-design-2022-04-07T114308.604.jpg);
+}
+
+.tinted-image4 {
+  background-image: 
+    /* top, transparent red */
+    linear-gradient(
+      rgba(141, 93, 5, 0.45), 
+      rgba(0, 0, 0, 0.45)
+    ),
+    /* your image */
+    url(https://www.science.org/cms/10.1126/science.aax8591/asset/842e8776-6fee-4c22-bdbf-6e35979bbd50/assets/graphic/367_685_f4.jpeg);
+}
+
+.tinted-image5 {
+  background-image: 
+    /* top, transparent red */
+    linear-gradient(
+      rgba(141, 93, 5, 0.45), 
+      rgba(0, 0, 0, 0.45)
+    ),
+    /* your image */
+    url(https://www.intelligentliving.co/wp-content/uploads/2019/10/EPA-emergency.jpg);
+}
+
+.tinted-image6 {
+  background-image: 
+    /* top, transparent red */
+    linear-gradient(
+      rgba(141, 93, 5, 0.45), 
+      rgba(0, 0, 0, 0.45)
+    ),
+    /* your image */
+    url(https://wcvmtoday.usask.ca/images/2021/02/beekeeper-closeup.jpg);
+}
+
+.tinted-image7 {
+  background-image: 
+    /* top, transparent red */
+    linear-gradient(
+      rgba(141, 93, 5, 0.45), 
+      rgba(0, 0, 0, 0.45)
+    ),
+    /* your image */
+    url(https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2017_12/1941536/170322-honey-bee-mn-1700.jpg);
+}
+
+.tinted-image8 {
+  background-image: 
+    /* top, transparent red */
+    linear-gradient(
+      rgba(141, 93, 5, 0.45), 
+      rgba(0, 0, 0, 0.45)
+    ),
+    /* your image */
+    url(https://static01.nyt.com/images/2021/10/27/crosswords/27bee-forum-wedn/27bee-forum-wedn-facebookJumbo.jpg);
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
